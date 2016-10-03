@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: scribblings
+subtitle: about technology, architecture and programming
 description:
-author: John Doe
-language:
+author: Alpar Torok
+language: 
 timezone:
 
 # URL
