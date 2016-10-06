@@ -91,3 +91,7 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+# Google analytics
+google_analytics: UA-85295130-1
+
