@@ -4,15 +4,23 @@
 
 # Site
 title: scribblings
-subtitle: about technology, architecture and programming
+subtitle: about programming, software and technology in general
 description:
 author: Alpar Torok
 language: 
 timezone:
+disqus_shortname: alpar-scribblings
+
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://localhost:4000
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,3 +77,17 @@ theme: bootstrap-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
+#sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+      
