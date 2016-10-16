@@ -4,7 +4,7 @@ date: 2016-10-16 07:19:22
 tags: [choices, libraries, software]
 ---
 
-<img style="float:left; padding: 1em;" width="250px" src="../../../../images/vacuum.png">
+<img style="float:left; padding: 1em;" width="250px" src="/personal_blog/images/vacuum.png">
 
 I think we can all agree that [the best code is no code at all](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/).
 The ways to get there are also mostly obvious: keep your code
