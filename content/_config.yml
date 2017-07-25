@@ -77,7 +77,7 @@ theme: bootstrap-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/atorok/personal_blog.git      
+  repo: git@github.com:atorok/personal_blog.git
 
 #Feed Atom
 feed:
